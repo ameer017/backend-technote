@@ -1,0 +1,11 @@
+2023-06-07		10:36:42	3cd092f6-c2e3-4f49-bea3-df57cfa81fe7	 undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.xvtqaku.mongodb.net 
+2023-06-07		10:36:48	41d551df-b50c-4d81-898c-54255138ebb8	 undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.xvtqaku.mongodb.net 
+2023-06-07		10:39:45	a9e7b6fd-f6bc-471b-b7f2-86ff39e065cc	 undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.xvtqaku.mongodb.net 
+2023-06-07		11:50:18	e49b43e4-bcd5-46cb-b468-1fe9792e3f9e	 undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.xvtqaku.mongodb.net 
+2023-06-08		09:27:49	2219ea4a-2711-421f-964b-6c1ca757a35d	 undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.xvtqaku.mongodb.net 
+2023-06-13		14:16:06	1c7eb494-d256-4bc1-bf44-6e3429ad6207	 undefined: undefined	undefined	undefined 
+2023-06-15		09:32:16	2f666a38-12c1-4966-87b9-16a2fdecf8e7	 undefined: ETIMEOUT	querySrv	_mongodb._tcp.cluster0.xvtqaku.mongodb.net 
+2023-06-15		09:33:48	0199b29b-2942-49eb-ac0a-05af40e88dcb	 undefined: ETIMEOUT	querySrv	_mongodb._tcp.cluster0.xvtqaku.mongodb.net 
+2023-06-15		09:37:21	4ebc4d61-f7e5-4a9a-ac91-09fd43ff8f2e	 undefined: ETIMEOUT	querySrv	_mongodb._tcp.cluster0.xvtqaku.mongodb.net 
+2023-06-15		09:40:09	e6ddf870-d124-4400-a59e-55ec656146ef	 undefined: ETIMEOUT	querySrv	_mongodb._tcp.cluster0.xvtqaku.mongodb.net 
+2023-06-15		09:46:48	74a8a398-f033-4d4a-b27e-442f1fb8d605	 undefined: ETIMEOUT	querySrv	_mongodb._tcp.cluster0.xvtqaku.mongodb.net 

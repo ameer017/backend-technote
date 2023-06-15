@@ -1,0 +1,11 @@
+2023-06-02		13:23:05	2d20ab2e-1cdf-4cee-8b5e-9335ea5b1556	 ReferenceError: bcrypt is not defined 
+2023-06-02		13:32:47	fe5eb6b9-cef7-4a9f-a2be-f8e570754621	 SyntaxError: Expected double-quoted property name in JSON at position 160 
+2023-06-05		10:16:14	490058d8-26d0-4688-9abb-07a6310788db	 ValidationError: Notes validation failed: user: Cast to ObjectId failed for value "Al-Ameer" (type string) at path "user" because of "BSONError" 
+2023-06-05		10:19:57	febe3bc7-701f-4124-9c08-5dfa632a0a5d	 ValidationError: Notes validation failed: user: Cast to ObjectId failed for value "ustadh01" (type string) at path "user" because of "BSONError" 
+2023-06-06		14:19:52	6b6934b6-413a-4602-b339-eb10c04a67e6	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-gobtco6-shard-00-00.xvtqaku.mongodb.net 
+2023-06-13		10:55:27	bf31507e-28fd-4c99-8a09-a7793e8d1b97	 MongoServerSelectionError: connection <monitor> to 3.213.72.62:27017 timed out 
+2023-06-13		14:14:04	736a2718-0002-4271-97f5-e8ed5a3cf974	 MongoServerSelectionError: connection <monitor> to 3.212.41.125:27017 timed out 
+2023-06-13		14:14:37	9c2273eb-caae-4dc8-ba2b-70509e0d6301	 MongoServerSelectionError: connection timed out 
+2023-06-13		14:14:40	61458ecb-3aa1-43a4-b274-bc7945648935	 MongoPoolClearedError: Connection pool for ac-gobtco6-shard-00-02.xvtqaku.mongodb.net:27017 was cleared because another operation failed with: "connection timed out" 
+2023-06-13		15:06:07	04b62826-21e5-404e-b8c7-9fcccf81e95d	 MongoServerSelectionError: connection <monitor> to 3.212.240.75:27017 timed out 
+2023-06-13		15:29:23	3dde0f22-d6e5-484e-9440-476239b2f332	 MongoNetworkTimeoutError: connection 5 to 3.213.72.62:27017 timed out 
